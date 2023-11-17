@@ -1,2 +1,2 @@
-# XL4005-24to5-power-converter
+# XL4005-PD-Power-converter
 A buck DC-DC power converter design using XL4005
